@@ -1,3 +1,4 @@
+<!--
 <div>
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header_aramuni.png?raw=true"/>
 </div>
@@ -47,7 +48,7 @@
 
 -----
 
-<!--
+
 **CarlosNeimar/CarlosNeimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
