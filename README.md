@@ -1,5 +1,5 @@
 <div align="center">
-  ![Header](https://github.com/CarlosNeimar/CarlosNeimar/blob/main/img/github-header-image.png)
+  <img src="https://github.com/CarlosNeimar/CarlosNeimar/blob/main/img/github-header-image.png" alt="Header"/>
 </div>
 
 ###
