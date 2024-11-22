@@ -2,14 +2,34 @@
   <img src="https://github.com/CarlosNeimar/CarlosNeimar/blob/main/img/github-header-image.png" alt="Header"/>
 </div>
 
+----
+<h1 align="center">Sobre mim:</h1>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=54F7EC&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Carlos+Neimar;Engenheiro+de+software+%3C%2F%3E" alt="Typing SVG" /></a>
+
+
+<p align="center">- Idade: 19 anos  <br>- Curso: Engenharia de Software  <br>- Universidade: PUC  <br>- Período: 4º  <br>- Atividades: Participa de uma agência de software e do projeto Grade Inteligente.</p>
+
+
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/carlos-henrique-neimar-areas-141a092a9/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/carlosneimar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/carloshenriqueneimar?igsh=YnZhemNhYXF5Z3F2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:carlos.areas@pucminas.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/553184510778" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
