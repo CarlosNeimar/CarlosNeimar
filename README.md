@@ -95,3 +95,5 @@
 </div>
 
 ###
+
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
