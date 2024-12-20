@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=54F7EC&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Carlos+Neimar;Engenheiro+de+software+%3C%2F%3E" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">- Idade: 19 anos  <br>- Curso: Engenharia de Software  <br>- Universidade: PUC  <br>- Período: 4º  <br>- Atividades: Participa de uma agência de software e do projeto Grade Inteligente.</p>
+<p align="center">- Idade: 19 anos  <br>- Curso: Engenharia de Software  <br>- Universidade: PUC  <br>- Período: 5º  <br>- Atividades: Participa de uma agência de software e do projeto Grade Inteligente.</p>
 
 
 ###
