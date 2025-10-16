@@ -84,15 +84,6 @@
 
 ###
 
-<p align="left">"Sempre haverá estrelas no céu"</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://img.freepik.com/fotos-premium/fundo-abstrato-do-espaco-estrelado-com-estrelas-brilhantes-no-ceu-noturno-banner_213524-284.jpg?w=900"  />
-</div>
 
 ###
 
